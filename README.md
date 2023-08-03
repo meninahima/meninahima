@@ -10,7 +10,7 @@
 <p align="center" >
 ﾟ･✧🌌・Pythonic Information: 
 <p align="center" >
- 💻 Programming in Python, C#, JavaScript, HTML e CSS.
+ 💻 Programming in Python, PHP, JavaScript, HTML e CSS.
 <p align="center" >
  ☕ Coffee Enthusiastic
 <div>
