@@ -3,7 +3,7 @@
 <p align="center" >
 ✧🛸・Add me on discord so we can play something:
  ​<p align="center" > 
- ​    <img src=" https://discord.c99.nl/widget/theme-2/1063283575400693840.png" /> 
+ ​    <img src="https://discord.c99.nl/widget/theme-2/1063283575400693840.png" /> 
 
 </p>
 
