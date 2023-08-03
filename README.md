@@ -1,16 +1,18 @@
  <p align="center" >
-✧☁・Opa bão? Eu sou a Gabs 🚀 
+✧☁・Welcome! I am Gabs 🚀 
 <p align="center" >
-✧🛸・Me chama no discord lá pra mim te roubar. Digo... Pra nois bater um papo!
+✧🛸・Add me on discord so we can play something:
  ​<p align="center" > 
  ​    <img src="https://discord.c99.nl/widget/theme-4/1063283575400693840.png" /> 
 
 </p>
 
 <p align="center" >
-ﾟ･✧🌌・Informações inuteis que ninguém liga: 
+ﾟ･✧🌌・Pythonic Information: 
 <p align="center" >
- 💻 Atualmente programo JavaScript, HTML e CSS.
+ 💻 Programming in Python, C#, JavaScript, HTML e CSS.
+<p align="center" >
+ ☕ Coffee Enthusiastic
 <div>
  <p align="center" >
     <a href="https://github.com/gtrujillo15">
