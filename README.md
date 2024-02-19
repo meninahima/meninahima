@@ -1,5 +1,5 @@
  <p align="center" >
-**✧☁・Welcome! I am Gabs 🚀 **
+✧☁・Welcome! I am Gabs 🚀 
 <p align="center" >
 ✧🛸・Add me on discord so we can play something:
  ​<p align="center" > 
