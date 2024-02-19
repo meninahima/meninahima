@@ -1,18 +1,5 @@
- <p align="center" >
-✧☁・Welcome! I am Gabs 🚀 
-<p align="center" >
-✧🛸・Add me on discord so we can play something:
- ​<p align="center" > 
+Hello, I'm Gabriela Miley and I'm an amateur programming student!
 
-
-</p>
-
-<p align="center" >
-ﾟ･✧🌌・Pythonic Information: 
-<p align="center" >
- 💻 Programming in Python, PHP, JavaScript, HTML e CSS.
-<p align="center" >
- ☕ Coffee Enthusiastic
 <div>
  <p align="center" >
     <a href="https://github.com/gtrujillo15">
